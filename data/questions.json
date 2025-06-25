@@ -1,0 +1,21 @@
+[
+    {
+      "question": "What is the capital of Pakistan?",
+      "options": ["Karachi", "Islamabad", "Peshawer", "Quetta"],
+      "answer": "Islamabad",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Paris_Night.jpg"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "answer": "Pacific",
+      "image": "https://images.hdqwalls.com/wallpapers/sea-ocean-aerial-view-sunset-dusk-9x.jpg"
+    }
+  ]
+  
